@@ -1,12 +1,12 @@
-### Dashboard de Atendimento – Power BI
+## Dashboard de Atendimento – Power BI
 
 Este projeto foi desenvolvido como parte de um treinamento do canal Hashtag Treinamentos, com o objetivo de praticar todo o fluxo de análise de dados, desde o tratamento até a visualização final em um dashboard interativo no Power BI.
 
-#### Fonte de Dados
+### Fonte de Dados
 
 A base de dados foi inicialmente analisada no Excel antes da importação para o Power BI, garantindo melhor entendimento da estrutura e dos dados disponíveis.
 
-#### Tratamento de Dados (Power Query)
+### Tratamento de Dados (Power Query)
 
 Durante a etapa de transformação, foram realizadas as seguintes ações:
 
@@ -22,7 +22,7 @@ Idade
 Substituição de valores inconsistentes
 Exclusão de dados desnecessários
 
-#### Modelagem de Dados
+### Modelagem de Dados
 
 Foi realizada a criação de um modelo relacional, conectando:
 
@@ -31,7 +31,7 @@ Tabelas Dimensão (ex: atendentes, problemas, datas, etc.)
 
 Essa modelagem permite análises mais eficientes e escaláveis.
 
-#### Indicadores e Métricas
+### Indicadores e Métricas
 
 O dashboard foi construído com foco nas principais necessidades do negócio:
 
@@ -48,12 +48,12 @@ O dashboard inclui análises visuais como:
 - Total de atendimentos por tipo de problema
 - Total de atendimentos por atendente
 
-#### Objetivo
+### Objetivo
 
 O principal objetivo deste projeto é transformar dados brutos em informações relevantes, permitindo uma visão clara da operação de atendimento e auxiliando na tomada de decisões.
 
-#### Ferramentas Utilizadas
+### Ferramentas Utilizadas
 
-Power BI
-Power Query
-Excel
+- Power BI
+- Power Query
+- Excel
